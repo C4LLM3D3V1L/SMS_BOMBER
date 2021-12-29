@@ -6,7 +6,7 @@ $ cd SMS_BOMBER
 
 $ ls
 
-$ python SMS_D3V1L.py
+$ python sms_bomber.py
 
 
 
